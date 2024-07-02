@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class palindromeexmaple {
     public static void main(String[] args) {
         String original, reverse = "";//Objects of String class
